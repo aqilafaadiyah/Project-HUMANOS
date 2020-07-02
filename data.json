@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "nama" : "Indonesia Menyala",
+        "wilayah" : "JABODETABEK",
+        "deskripsi" : "Penyala bergerak menyediakan buku di desa penempatan Pengajar Muda. Proses pengumpulan buku dikemas dalam acara ?Pack Your Spirit? (PYS). Puluhan ribu buku tersebar ke berbagai pelosok negeri. Ada pula relawan yang membiayai ongkos langganan majalah anak-anak. Kerja keras relawan memicu penduduk lokal berbuat lebih banyak. Masyarakat memberikan dukungan dengan menyediakan tempat belajar, menemani anak-anak membaca buku, menceritakan dongeng atau mengunjungi perpustakaan.",
+        "foto" : "1.png"
+    },
+    {
+        "id": "2",
+        "nama": "Ruang Belajar",
+        "wilayah": "JABODETABEK",
+        "deskripsi": "Ruang Belajar (Rubel) adalah wadah yang mendokumentasikan metode-metode mengajar kreatif dari penjuru Nusantara dalam portal belajar.indonesiamengajar.org. Hingga kini, ada ratusan tulisan metode mengajar kreatif di portal Ruang Belajar dengan rerata kunjungan sekitar 40 ribu kali perbulannya. Kami mengajak Anda untuk bergabung menjadi relawan Sahabat Rubel dan bersama-sama membuat metode belajar kreatif ini dapat dirasakan manfaatnya oleh lebih banyak guru-guru di berbagai daerah Indonesia.",
+        "foto": "4.png"
+    },
+    {
+        "id": "3",
+        "nama": "Internet Sehat",
+        "wilayah": "JABODETABEK",
+        "deskripsi": "Program ini dikhusukan untuk relawan yang mau melakukan penyuluhan dan berbagi ilmu seputar penggunaan internet secara baik dan benar dilingkungan yang kurang mengerti dan paham akan penggunaan internet",
+        "foto": "3.jpg"
+    },
+	{
+        "id": "4",
+        "nama": "Luberbagi",
+        "wilayah": "JABODETABEK",
+        "deskripsi": "LUBERBAGI adalah kegiatan rutin yang diadakan setahun sekali yaitu pada bulan ramadhan. kegiatan ini meliputi bakti sosial dan santunan kepada anak-anak yatim piatu dan dhuafa yang tinggal disekitar tempat program ini berlangsung, selain itu juga kami mengadakan buka puasa bersama agar terjalin suatu kedekatangan dengan orang-orang disekitar khususnya anak kecil yang membutuhkan",
+        "foto": "5.jpg"
+    },
+    {
+        "id": "5",
+        "nama": "Cintai Bumi",
+        "wilayah": "JABODETABEK",
+        "deskripsi": "Berbagi SAPA2 adalah sebuah program baru dimana kami mengajak para relaawan untuk berbagi Sandang, papan dan pangan kepada orang-orang yang membutuhkan. dana ataupun barang2 tersebut didapatkan dari mengajak orang2 untuk berdonasi ataupun dari diri sendiri",
+        "foto": "2.jpg"
+    }  
+]
